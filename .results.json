@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-11-07T04:15:14.988Z",
+    "end": "2021-11-07T04:15:15.964Z",
+    "duration": 976
+  },
+  "tests": [
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
